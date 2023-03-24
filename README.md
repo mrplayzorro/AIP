@@ -19,22 +19,20 @@ No headers, it's formatted to run on **most** programming languages and doesn't 
 
 ❌ Might glitch while trying to print
 
-❌ Only has IP, Latitude, Longitude
-
 # Code Examples:
 
 `LuaU`
 
 ``` lua
-local a = game:GetService("HttpService")
+local HttpService = game:GetService("HttpService")
 local link = "https://carlbot-61041ca.000webhostapp.com/index.php"
-local get = a:GetAsync(link)
+local get = HttpService:GetAsync(link)
 
 --the following lines will remove any mistakes in printing
 
 local text = get
 text = text:gsub("<html>", "")
-text = text:gsub("ez ez big black balls 🤡🤡😳😳😄", "")
+text = text:gsub("AIP, The world at one click.", "")
 text = text:gsub("<?php", "")
 text = text:gsub("<head>", "")
 text = text:gsub("<title>", "")
@@ -46,3 +44,12 @@ text = text:gsub("<br>", " ")
 print(text)
 ```
 
+# Patch-Notes
+
+> 24 / 03 / 2023 (DD/MM/YYYY)
+
+✅ • **Added ISP, Region, City, Timezone and country.**
+
+✅ • Started working on **JSON Api.**
+
+✅ • Changed main title to something not childish
