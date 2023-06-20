@@ -19,28 +19,7 @@ No headers, it's formatted to run on **most** programming languages and doesn't 
 
 # Code Examples:
 
-`LuaU`
-
-``` lua
-local HttpService = game:GetService("HttpService")
-local link = "https://carlbot-61041ca.000webhostapp.com/index.php"
-local get = HttpService:GetAsync(link)
-
---the following lines will remove any mistakes in printing
-
-local text = get
-text = text:gsub("<html>", "")
-text = text:gsub("AIP, The world at one click.", "")
-text = text:gsub("<?php", "")
-text = text:gsub("<head>", "")
-text = text:gsub("<title>", "")
-text = text:gsub("</title>", "")
-text = text:gsub("</head>", "")
-text = text:gsub("<!DOCTYPE html>", "")
-text = text:gsub("<br>", " ")
-
-print(text)
-```
+GO GET CODE EXAMPLES IN THE JSON DOCUMENT
 
 # Patch-Notes
 
