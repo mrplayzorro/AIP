@@ -9,7 +9,7 @@ No headers, it's formatted to run on **most** programming languages and doesn't 
 
 # Pros
 
-✅ **Unlimited** requests                              
+✅ **Unlimited** requests (Private Version but it's 5 euros)                             
 
 ✅ Up for most of the time
 
@@ -49,3 +49,14 @@ GO GET CODE EXAMPLES IN THE JSON DOCUMENT
 ✅ • Added [JSON Documents](https://github.com/mrplayzorro/AIP/blob/main/JSONDocs.md)
 
 ✅ • Updated the Private API to add Spoofed IPs `DM Me on Discord to buy (Username 2_swag)`
+
+# Why you should buy the Private API
+
+|   Functions  | Public         | Private |
+| :---:         |     :---:      |          :---: |
+| IP2L Searching   | ✅     | ✅    |
+| Access to code examples     | 🟨 (Limited)      | ✅ (On request)      |
+| Requests     | 🟨 (2000 Per month)      | ✅ (Unlimited)      |
+| IP Detection    | ❌      | ✅      |
+| Spoofing detection    | ❌      | ✅      |
+| Proxy Detection   | ❌      | ✅      |
