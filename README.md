@@ -52,12 +52,4 @@ GO GET CODE EXAMPLES IN THE JSON DOCUMENT
 
 # Why you should buy the Private API
 
-|   Functions  | Public         | Private |
-| :---:         |     :---:      |          :---: |
-| IP2L Searching   | ✅     | ✅    |
-| Access to code examples     | 🟨 (Limited)      | ✅ (On request)      |
-| Requests     | 🟨 (2000 Per month)      | ✅ (Unlimited)      |
-| IP Detection    | ❌      | ✅      |
-| Spoofing detection    | ❌      | ✅      |
-| Proxy Detection   | ❌      | ✅      |
-| Discord bot for IP2L and webhooks   | ❌      | ✅|
+Moved [here](https://docs.google.com/document/d/1GaE81pK-yIaho2Jo1D1E7VDTuJQCx5XICFSk90x3k_I/edit)
