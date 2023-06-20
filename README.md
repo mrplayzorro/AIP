@@ -60,4 +60,4 @@ GO GET CODE EXAMPLES IN THE JSON DOCUMENT
 | IP Detection    | ❌      | ✅      |
 | Spoofing detection    | ❌      | ✅      |
 | Proxy Detection   | ❌      | ✅      |
-| Discord bot for IP2L and webhooks   | ❌      | 🟨 Webhooks are done, just finishing the discord bot|
+| Discord bot for IP2L and webhooks   | ❌      | ✅|
