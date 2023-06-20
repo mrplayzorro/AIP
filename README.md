@@ -60,4 +60,11 @@ print(text)
 
 ✅ • **Added an easteregg**
 
-✅ • **Patched**
+✅ • **Patched the print error on the JSON API** 
+
+
+> 20 / 06 / 2023 (DD/MM/YYYY) Version 2.0
+
+✅ • Updated JSON Api to Version 0.2.1
+
+✅ • Added [JSON Documents](https://github.com/mrplayzorro/AIP/blob/main/JSONDocs.md)
